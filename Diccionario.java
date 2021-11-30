@@ -1,5 +1,6 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
+//Mbanares Arodriguez
 
 public class Diccionario {
     public static void main(String[] args) throws Exception {
